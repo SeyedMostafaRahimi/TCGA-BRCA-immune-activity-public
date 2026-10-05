@@ -294,4 +294,4 @@ Please cite the associated manuscript when a citable version becomes available. 
 
 ## License
 
-A repository and code license should be added before public release. Data-source terms and the terms of any bundled STRING, MSigDB, Cytoscape, or other reference artifact must be checked separately.
+The analysis code in this repository is released under the MIT License. Data and third-party reference artifacts remain subject to the terms and licenses of their original sources.
