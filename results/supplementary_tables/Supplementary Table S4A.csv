@@ -1,0 +1,2 @@
+"Comparison","Contrast_definition","N_Immune_High","N_Immune_Low","Genes_tested","FDR_method","FDR_threshold","Absolute_logFC_threshold","Significant_DEGs","Higher_in_Immune_High","Higher_in_Immune_Low"
+"Immune-High vs Immune-Low","Immune_High - Immune_Low",369,369,35009,"Benjamini-Hochberg",0.05,1,2830,2463,367

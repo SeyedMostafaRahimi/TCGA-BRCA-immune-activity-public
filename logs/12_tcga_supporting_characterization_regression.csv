@@ -1,0 +1,14 @@
+"Metric","Value"
+"S9_R_max_difference",0
+"S9_rawP_max_difference",0
+"S9_FDR_max_difference",0
+"S9_N_exact",1
+"KW_log10P_max_difference",0
+"KW_log10FDR_max_difference",0
+"State_median_max_difference",0.000000000000454747350886464
+"Dunn_Z_max_difference",0.000000000000042632564145606
+"Dunn_raw_log10P_max_difference",0.000000000000014210854715202
+"Dunn_BH_log10P_max_difference",0.0000000000000035527136788005
+"Direct_Z_max_difference",0.00000000000000444089209850063
+"Direct_rawP_max_difference",0.000000000000000444089209850063
+"Direct_BH_P_max_difference",0.000000000000000444089209850063

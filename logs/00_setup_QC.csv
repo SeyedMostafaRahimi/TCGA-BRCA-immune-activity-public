@@ -1,0 +1,8 @@
+"Check","Result"
+"Project root detected","D:/P/RNA-seq project/New folder/TCGA_BRCA_Immune_Project"
+"Archive script preserved","archive/exploratory_analysis_36276_lines.R"
+"Phenotype levels","Immune_Low | Immune_Mid | Immune_High"
+"Final ssGSEA signatures","17"
+"Global seed","12345"
+"Required directories","12"
+"Session-info log","logs/00_setup_sessionInfo.txt"

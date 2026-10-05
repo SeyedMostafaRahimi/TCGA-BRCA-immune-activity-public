@@ -1,0 +1,6 @@
+"Metric","Value"
+"Genes tested",35009
+"Immune High samples",369
+"Immune Low samples",369
+"logFC versus direct High-Low correlation",1
+"Maximum direct High-Low discrepancy",0.0000000000000532907051820075

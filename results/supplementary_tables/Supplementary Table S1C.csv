@@ -1,0 +1,5 @@
+﻿Characteristic,Overall,Immune_Low,Immune_Mid,Immune_High,P_value
+"Pathological M stage, n (%)",nan,nan,nan,nan,0.291
+M0,910 (82.3%),300 (81.3%),306 (83.2%),304 (82.4%),
+M1,22 (2.0%),8 (2.2%),10 (2.7%),4 (1.1%),
+Missing,174 (15.7%),61 (16.5%),52 (14.1%),61 (16.5%),

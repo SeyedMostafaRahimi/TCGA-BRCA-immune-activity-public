@@ -1,0 +1,13 @@
+Feature,Comparison,Z_statistic,Adjusted_P_value
+ImmuneScore,Immune-Low vs Immune-Mid,-12.597,2.19E-36
+ImmuneScore,Immune-Low vs Immune-High,-28.316,6.63E-176
+ImmuneScore,Immune-Mid vs Immune-High,-15.7,2.28E-55
+StromalScore,Immune-Low vs Immune-Mid,-12.343,7.99E-35
+StromalScore,Immune-Low vs Immune-High,-20.146,8.79E-90
+StromalScore,Immune-Mid vs Immune-High,-7.803,3.68E-14
+ESTIMATEScore,Immune-Low vs Immune-Mid,-15.105,1.62E-50
+ESTIMATEScore,Immune-Low vs Immune-High,-27.414,1.01E-163
+ESTIMATEScore,Immune-Mid vs Immune-High,-14.104,1.46E-44
+Tumor purity,Immune-Low vs Immune-Mid,15.105,1.62E-50
+Tumor purity,Immune-Low vs Immune-High,27.414,1.01E-163
+Tumor purity,Immune-Mid vs Immune-High,14.104,1.46E-44

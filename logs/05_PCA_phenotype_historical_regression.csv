@@ -1,0 +1,18 @@
+"Metric","Value"
+"PC1 variance percent",48.1019637113153
+"Historical PC1 variance percent",48.1019637113153
+"PC1 variance absolute difference",0
+"PC1 loading max absolute difference",0
+"PCA center max absolute difference",0
+"PCA scale max absolute difference",0
+"PC1 sample max absolute difference",0.000000000000007105427357601
+"PC1 sample mean absolute difference",0.00000000000000183539076542992
+"PC1 sample Pearson correlation",1
+"Lower tertile type 7",-1.19986091056045
+"Upper tertile type 7",1.29420044049707
+"Immune Low count",369
+"Immune Mid count",368
+"Immune High count",369
+"Phenotype exact matches",1106
+"Phenotype mismatches",0
+"PC1 sign flipped during deterministic orientation",0

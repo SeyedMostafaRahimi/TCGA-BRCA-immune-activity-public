@@ -1,0 +1,6 @@
+"Component","Status"
+"Canonical TCGA survival cohort","PASS"
+"Immune phenotype log-rank","PASS"
+"20-hub univariate Cox","PASS"
+"BH correction family","PASS"
+"FDR-significant hub set","PASS"

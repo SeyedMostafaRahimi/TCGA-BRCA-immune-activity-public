@@ -1,0 +1,5 @@
+﻿Variable,Test,Pvalue
+Age,Kruskal-Wallis,9.049146428837399e-19
+Tumor size,Kruskal-Wallis,1.46075298204232e-12
+Lymph-node status,Pearson chi-square,0.178025926587669
+Nottingham histological grade,Pearson chi-square,2.66592322072705e-26

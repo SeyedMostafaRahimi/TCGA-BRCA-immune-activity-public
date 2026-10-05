@@ -1,0 +1,5 @@
+"Feature","Max_abs_difference","Mean_abs_difference","Pearson_r"
+"ImmuneScore",0,0,1
+"StromalScore",0,0,1
+"ESTIMATEScore",0,0,1
+"TumorPurity",0.00000000000000049960036108132,0.000000000000000236850924647654,1

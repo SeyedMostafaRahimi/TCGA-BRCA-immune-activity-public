@@ -1,0 +1,12 @@
+"Metric","Value"
+"Raw Ensembl rows",60660
+"Historical mapped rows",36257
+"Historical unmapped rows",24403
+"Duplicate-symbol rows removed",105
+"Unique symbols before variance filter",36152
+"Zero-variance rows removed",1143
+"Final genes",35009
+"Final tumors",1106
+"keep2 reproduced exactly",1
+"gene_symbols2 reproduced exactly",1
+"Final matrix reproduced exactly",1

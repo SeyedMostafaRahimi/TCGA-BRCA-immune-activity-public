@@ -1,0 +1,25 @@
+"Feature","Label","Feature_type","Comparison","Z","P.unadj","P.adj"
+"ImmuneScore","ESTIMATE ImmuneScore","Cross-method characterization","Immune_Low - Immune_Mid",-12.5969853090131,2.19369981125676e-36,2.19369981125676e-36
+"ImmuneScore","ESTIMATE ImmuneScore","Cross-method characterization","Immune_Low - Immune_High",-28.3157844429568,2.20934909921018e-176,6.62804729763054e-176
+"ImmuneScore","ESTIMATE ImmuneScore","Cross-method characterization","Immune_Mid - Immune_High",-15.6995824473441,1.52240802886992e-55,2.28361204330487e-55
+"TumorPurity","ESTIMATE tumor purity","Cross-method characterization","Immune_Low - Immune_Mid",13.1493162122639,1.71720313513896e-39,1.71720313513896e-39
+"TumorPurity","ESTIMATE tumor purity","Cross-method characterization","Immune_Low - Immune_High",27.7587042539623,1.36808968780932e-169,4.10426906342795e-169
+"TumorPurity","ESTIMATE tumor purity","Cross-method characterization","Immune_Mid - Immune_High",14.5905494211004,3.22589174680998e-48,4.83883762021497e-48
+"CD8_T_cells_MCPcounter","CD8 T cells (MCP-counter)","Cross-method characterization","Immune_Low - Immune_Mid",-10.5489315975162,5.13779849785125e-26,5.13779849785125e-26
+"CD8_T_cells_MCPcounter","CD8 T cells (MCP-counter)","Cross-method characterization","Immune_Low - Immune_High",-22.7920192429557,5.50192194511228e-115,1.65057658353368e-114
+"CD8_T_cells_MCPcounter","CD8 T cells (MCP-counter)","Cross-method characterization","Immune_Mid - Immune_High",-12.2276196971069,2.21329594368554e-34,3.31994391552831e-34
+"Cytotoxic_lymphocytes_MCPcounter","Cytotoxic lymphocytes (MCP-counter)","Cross-method characterization","Immune_Low - Immune_Mid",-11.8943308251232,1.26664189864447e-32,1.26664189864447e-32
+"Cytotoxic_lymphocytes_MCPcounter","Cytotoxic lymphocytes (MCP-counter)","Cross-method characterization","Immune_Low - Immune_High",-24.7867263900862,1.24653071860394e-135,3.73959215581182e-135
+"Cytotoxic_lymphocytes_MCPcounter","Cytotoxic lymphocytes (MCP-counter)","Cross-method characterization","Immune_Mid - Immune_High",-12.8755738959809,6.17781641588523e-38,9.26672462382784e-38
+"NK_cells_MCPcounter","NK cells (MCP-counter)","Cross-method characterization","Immune_Low - Immune_Mid",-10.3757620619053,3.19651736062194e-25,3.19651736062194e-25
+"NK_cells_MCPcounter","NK cells (MCP-counter)","Cross-method characterization","Immune_Low - Immune_High",-21.2584765402143,2.75205848483025e-100,8.25617545449074e-100
+"NK_cells_MCPcounter","NK cells (MCP-counter)","Cross-method characterization","Immune_Mid - Immune_High",-10.8682872784523,1.63236352389146e-27,2.44854528583719e-27
+"Immune_Checkpoint","Immune checkpoint signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_Mid",-11.7269511005561,9.27392726630262e-32,9.27392726630262e-32
+"Immune_Checkpoint","Immune checkpoint signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_High",-25.7779234743934,1.568226220146e-146,4.70467866043801e-146
+"Immune_Checkpoint","Immune checkpoint signature","PC1 constituent ssGSEA signature","Immune_Mid - Immune_High",-14.033478022671,9.72621226081607e-45,1.45893183912241e-44
+"CAF_Peng_et_al","CAF signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_Mid",-12.938800422545,2.71840910781548e-38,4.07761366172321e-38
+"CAF_Peng_et_al","CAF signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_High",-18.6661045618523,9.34234313483878e-78,2.80270294045163e-77
+"CAF_Peng_et_al","CAF signature","PC1 constituent ssGSEA signature","Immune_Mid - Immune_High",-5.71463626912617,1.09938920879845e-08,1.09938920879845e-08
+"TAM_Peng_et_al","TAM signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_Mid",-11.5402416845647,8.26925532035707e-31,1.24038829805356e-30
+"TAM_Peng_et_al","TAM signature","PC1 constituent ssGSEA signature","Immune_Low - Immune_High",-22.2496721160456,1.13620296433843e-109,3.40860889301528e-109
+"TAM_Peng_et_al","TAM signature","PC1 constituent ssGSEA signature","Immune_Mid - Immune_High",-10.6943305504637,1.08198148597381e-26,1.08198148597381e-26

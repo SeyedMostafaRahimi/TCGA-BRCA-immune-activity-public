@@ -1,0 +1,7 @@
+"Analysis","Comparison","Method","N","Events","Adjusted HR","95% CI","P value"
+"CCL19 expression","High vs Low","Kaplan–Meier / log-rank",3069,322,"","","<0.001"
+"IL10 expression","High vs Low","Kaplan–Meier / log-rank",3069,322,"","","0.061"
+"CCL19–IL10 joint states","Four-state overall comparison","Kaplan–Meier / log-rank",3069,322,"","","<0.001"
+"Adjusted joint-state model","High CCL19 / High IL10 vs High CCL19 / Low IL10","Multivariable Cox",2911,303,"1.01","0.68–1.50","0.956"
+"Adjusted joint-state model","Low CCL19 / Low IL10 vs High CCL19 / Low IL10","Multivariable Cox",2911,303,"1.07","0.73–1.56","0.730"
+"Adjusted joint-state model","Low CCL19 / High IL10 vs High CCL19 / Low IL10","Multivariable Cox",2911,303,"1.32","0.89–1.95","0.165"

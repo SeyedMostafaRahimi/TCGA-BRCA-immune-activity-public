@@ -1,0 +1,8 @@
+"File","Byte_copy_MD5_verified","Source_MD5","Destination_MD5"
+"TableS9_HubImmune_Correlations_FrozenObjects_FINAL.rds",TRUE,"beae6564a56bae2d1906eb4be11ce2e0","beae6564a56bae2d1906eb4be11ce2e0"
+"TableS_TCGA_Clinical_Data_for_Table1.csv",TRUE,"78b00d7d862a8879186e0426a91847d8","78b00d7d862a8879186e0426a91847d8"
+"TableS_TCGA_Clinical_Missingness.csv",TRUE,"099342cf777ed52f606cc3080c2f4364","099342cf777ed52f606cc3080c2f4364"
+"TableS11D_TCGA_JointState_Immune_Omnibus.csv",TRUE,"56d4775635661ea33dc9989e3357b351","56d4775635661ea33dc9989e3357b351"
+"TableS11E_TCGA_JointState_Dunn_BH_AllComparisons.csv",TRUE,"c851eb94e2d2f4d7f0ff40b939f55e11","c851eb94e2d2f4d7f0ff40b939f55e11"
+"TableS11F_TCGA_HighLow_vs_LowHigh_ImmuneComparison.csv",TRUE,"33e8f8f057eb893d5b70405c6fb41058","33e8f8f057eb893d5b70405c6fb41058"
+"TableS11G_TCGA_JointState_ImmuneFeature_Medians.csv",TRUE,"9440c8da895972ef1a37e46de6f08966","9440c8da895972ef1a37e46de6f08966"

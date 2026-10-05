@@ -1,0 +1,14 @@
+"Metric","Value"
+"CCL19_median_difference",0
+"IL10_median_difference",0
+"CCL19_logrank_P_difference",0
+"IL10_logrank_P_difference",0
+"Joint_state_logrank_P_difference",0
+"Pairwise_BH_max_difference",0
+"Adjusted_data_numeric_max_difference",0
+"Adjusted_data_categorical_exact",1
+"Cox_coefficient_table_max_difference",0
+"Cox_CI_table_max_difference",0
+"PH_table_max_difference",0
+"Adjusted_result_table_max_difference",0
+"Clinical_state_summary_max_difference",0

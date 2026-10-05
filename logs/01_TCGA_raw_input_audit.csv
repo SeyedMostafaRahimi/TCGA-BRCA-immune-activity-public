@@ -1,0 +1,3 @@
+"Dataset","Source","Production_Copy","Size_MB","MD5"
+"TCGA-BRCA expression","../TCGA-BRCA.star_counts.tsv/TCGA-BRCA.star_counts.tsv","data_raw/TCGA-BRCA.star_counts.tsv",719.8,"7c6f02ee1c80277c2a3f8c07d9db6210"
+"TCGA-BRCA clinical","../TCGA-BRCA.clinical.tsv/TCGA-BRCA.clinical.tsv","data_raw/TCGA-BRCA.clinical.tsv",1.65,"b66ea0f7089920e951444a4e71861e09"

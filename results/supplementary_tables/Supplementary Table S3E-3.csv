@@ -1,0 +1,76 @@
+"Feature","Label","Feature_type","Comparison","Z","P.unadj","P.adj"
+"CD4+_Tem_xCell","CD4+ Tem","xCell enrichment signature","Immune_Low - Immune_Mid",-10.2959821880208,7.3465959205896e-25,7.3465959205896e-25
+"CD4+_Tem_xCell","CD4+ Tem","xCell enrichment signature","Immune_Low - Immune_High",-23.5305739138152,1.98483751449888e-122,5.95451254349663e-122
+"CD4+_Tem_xCell","CD4+ Tem","xCell enrichment signature","Immune_Mid - Immune_High",-13.2186225526528,6.85070281814873e-40,1.02760542272231e-39
+"Class-switched_memory_B-cells_xCell","Class-switched memory B-cells","xCell enrichment signature","Immune_Low - Immune_Mid",-5.97615906289902,2.28459942290766e-09,2.28459942290766e-09
+"Class-switched_memory_B-cells_xCell","Class-switched memory B-cells","xCell enrichment signature","Immune_Low - Immune_High",-16.5262522746939,2.37456324567759e-61,7.12368973703278e-61
+"Class-switched_memory_B-cells_xCell","Class-switched memory B-cells","xCell enrichment signature","Immune_Mid - Immune_High",-10.5388775659325,5.71772237251596e-26,8.57658355877393e-26
+"ImmuneScore_xCell","ImmuneScore","Composite xCell score","Immune_Low - Immune_Mid",-1.61302796548572,0.106738432237835,0.106738432237835
+"ImmuneScore_xCell","ImmuneScore","Composite xCell score","Immune_Low - Immune_High",-10.3821585077591,2.9893862231654e-25,8.96815866949619e-25
+"ImmuneScore_xCell","ImmuneScore","Composite xCell score","Immune_Mid - Immune_High",-8.76208462459198,1.91672294308371e-18,2.87508441462557e-18
+"MicroenvironmentScore_xCell","MicroenvironmentScore","Composite xCell score","Immune_Low - Immune_Mid",-2.13665396246149,0.0326261470760268,0.0326261470760268
+"MicroenvironmentScore_xCell","MicroenvironmentScore","Composite xCell score","Immune_Low - Immune_High",-10.4371289773806,1.67809227794341e-25,5.03427683383023e-25
+"MicroenvironmentScore_xCell","MicroenvironmentScore","Composite xCell score","Immune_Mid - Immune_High",-8.29339179118006,1.10064064020824e-16,1.65096096031235e-16
+"Plasma_cells_xCell","Plasma cells","xCell enrichment signature","Immune_Low - Immune_Mid",-4.76931299357611,1.84855256076028e-06,1.84855256076028e-06
+"Plasma_cells_xCell","Plasma cells","xCell enrichment signature","Immune_Low - Immune_High",-10.2805442737375,8.62392078939738e-25,2.58717623681921e-24
+"Plasma_cells_xCell","Plasma cells","xCell enrichment signature","Immune_Mid - Immune_High",-5.50425432362398,3.70734044883869e-08,5.56101067325803e-08
+"Pericytes_xCell","Pericytes","xCell enrichment signature","Immune_Low - Immune_Mid",-5.05803365202743,4.23601694367011e-07,6.35402541550517e-07
+"Pericytes_xCell","Pericytes","xCell enrichment signature","Immune_Low - Immune_High",-9.22967317560507,2.71458903487113e-20,8.14376710461338e-20
+"Pericytes_xCell","Pericytes","xCell enrichment signature","Immune_Mid - Immune_High",-4.16537574737221,3.10840182360596e-05,3.10840182360596e-05
+"Astrocytes_xCell","Astrocytes","xCell enrichment signature","Immune_Low - Immune_Mid",2.50063213231319,0.0123971877439206,0.0123971877439206
+"Astrocytes_xCell","Astrocytes","xCell enrichment signature","Immune_Low - Immune_High",8.62448494565625,6.43817485714395e-18,1.93145245714318e-17
+"Astrocytes_xCell","Astrocytes","xCell enrichment signature","Immune_Mid - Immune_High",6.11799975196604,9.47572144658263e-10,1.42135821698739e-09
+"CD4+_Tcm_xCell","CD4+ Tcm","xCell enrichment signature","Immune_Low - Immune_Mid",-3.0208643527699,0.00252054250816972,0.00252054250816972
+"CD4+_Tcm_xCell","CD4+ Tcm","xCell enrichment signature","Immune_Low - Immune_High",-8.34084245419966,7.37631166169091e-17,2.21289349850727e-16
+"CD4+_Tcm_xCell","CD4+ Tcm","xCell enrichment signature","Immune_Mid - Immune_High",-5.31431753582751,1.07057793692241e-07,1.60586690538361e-07
+"Basophils_xCell","Basophils","xCell enrichment signature","Immune_Low - Immune_Mid",3.40112222517285,0.000671098146758214,0.000671098146758214
+"Basophils_xCell","Basophils","xCell enrichment signature","Immune_Low - Immune_High",-4.969468755293,6.71365875587677e-07,1.00704881338152e-06
+"Basophils_xCell","Basophils","xCell enrichment signature","Immune_Mid - Immune_High",-8.36721841899474,5.89942833227333e-17,1.769828499682e-16
+"HSC_xCell","HSC","xCell enrichment signature","Immune_Low - Immune_Mid",-4.92779954605261,8.31608700409373e-07,1.24741305061406e-06
+"HSC_xCell","HSC","xCell enrichment signature","Immune_Low - Immune_High",-7.77831967612239,7.34941644025519e-15,2.20482493207656e-14
+"HSC_xCell","HSC","xCell enrichment signature","Immune_Mid - Immune_High",-2.84524132411657,0.00443777876691886,0.00443777876691886
+"Preadipocytes_xCell","Preadipocytes","xCell enrichment signature","Immune_Low - Immune_Mid",2.85272236000925,0.00433464745757813,0.00433464745757813
+"Preadipocytes_xCell","Preadipocytes","xCell enrichment signature","Immune_Low - Immune_High",7.40440303327355,1.3174174915132e-13,3.95225247453959e-13
+"Preadipocytes_xCell","Preadipocytes","xCell enrichment signature","Immune_Mid - Immune_High",4.54665562821094,5.45050706296005e-06,8.17576059444007e-06
+"Mast_cells_xCell","Mast cells","xCell enrichment signature","Immune_Low - Immune_Mid",-0.404940869933478,0.685520975581936,0.685520975581936
+"Mast_cells_xCell","Mast cells","xCell enrichment signature","Immune_Low - Immune_High",-6.60015938606856,4.10715979353916e-11,1.23214793806175e-10
+"Mast_cells_xCell","Mast cells","xCell enrichment signature","Immune_Mid - Immune_High",-6.19073927613082,5.98826893579882e-10,8.98240340369823e-10
+"Smooth_muscle_xCell","Smooth muscle","xCell enrichment signature","Immune_Low - Immune_Mid",-2.14178135299882,0.0322110806322744,0.0322110806322744
+"Smooth_muscle_xCell","Smooth muscle","xCell enrichment signature","Immune_Low - Immune_High",4.40420656330005,1.06171743210632e-05,1.59257614815949e-05
+"Smooth_muscle_xCell","Smooth muscle","xCell enrichment signature","Immune_Mid - Immune_High",6.54299897359742,6.02972443495002e-11,1.80891733048501e-10
+"NKT_xCell","NKT","xCell enrichment signature","Immune_Low - Immune_Mid",2.12666295528067,0.033448097580771,0.033448097580771
+"NKT_xCell","NKT","xCell enrichment signature","Immune_Low - Immune_High",6.47792668292979,9.29915161003131e-11,2.78974548300939e-10
+"NKT_xCell","NKT","xCell enrichment signature","Immune_Mid - Immune_High",4.34686744164364,1.38095619946699e-05,2.07143429920048e-05
+"MEP_xCell","MEP","xCell enrichment signature","Immune_Low - Immune_Mid",2.28404334424965,0.0223689837180288,0.0223689837180288
+"MEP_xCell","MEP","xCell enrichment signature","Immune_Low - Immune_High",6.42972302936692,1.27836663127715e-10,3.83509989383144e-10
+"MEP_xCell","MEP","xCell enrichment signature","Immune_Mid - Immune_High",4.14131611282683,3.45318658104493e-05,5.1797798715674e-05
+"Melanocytes_xCell","Melanocytes","xCell enrichment signature","Immune_Low - Immune_Mid",-4.34570100577432,1.3883157192509e-05,2.08247357887636e-05
+"Melanocytes_xCell","Melanocytes","xCell enrichment signature","Immune_Low - Immune_High",-6.37112657525504,1.87644694681284e-10,5.62934084043851e-10
+"Melanocytes_xCell","Melanocytes","xCell enrichment signature","Immune_Mid - Immune_High",-2.0211017640453,0.0432692317878463,0.0432692317878463
+"B-cells_xCell","B-cells","xCell enrichment signature","Immune_Low - Immune_Mid",-2.07672170088695,0.0378272525048969,0.0378272525048969
+"B-cells_xCell","B-cells","xCell enrichment signature","Immune_Low - Immune_High",-6.28506632927498,3.27713741927743e-10,9.8314122578323e-10
+"B-cells_xCell","B-cells","xCell enrichment signature","Immune_Mid - Immune_High",-4.20407922828406,2.62147109035205e-05,3.93220663552808e-05
+"Osteoblast_xCell","Osteoblast","xCell enrichment signature","Immune_Low - Immune_Mid",3.45291958457868,0.000554554293279059,0.000831831439918588
+"Osteoblast_xCell","Osteoblast","xCell enrichment signature","Immune_Low - Immune_High",6.08986274369652,1.130075322937e-09,3.39022596881099e-09
+"Osteoblast_xCell","Osteoblast","xCell enrichment signature","Immune_Mid - Immune_High",2.63281023516457,0.00846816461401401,0.00846816461401401
+"CD8+_Tem_xCell","CD8+ Tem","xCell enrichment signature","Immune_Low - Immune_Mid",-1.0597960806143,0.289237380289761,0.289237380289761
+"CD8+_Tem_xCell","CD8+ Tem","xCell enrichment signature","Immune_Low - Immune_High",-4.40267567336944,1.06923947894663e-05,3.20771843683988e-05
+"CD8+_Tem_xCell","CD8+ Tem","xCell enrichment signature","Immune_Mid - Immune_High",-3.33989168900185,0.000838110699929416,0.00125716604989412
+"Hepatocytes_xCell","Hepatocytes","xCell enrichment signature","Immune_Low - Immune_Mid",2.59440027804675,0.00947560973060917,0.0142134145959138
+"Hepatocytes_xCell","Hepatocytes","xCell enrichment signature","Immune_Low - Immune_High",4.40741842807721,1.04609977955272e-05,3.13829933865817e-05
+"Hepatocytes_xCell","Hepatocytes","xCell enrichment signature","Immune_Mid - Immune_High",1.81002702757662,0.0702915959479634,0.0702915959479634
+"Chondrocytes_xCell","Chondrocytes","xCell enrichment signature","Immune_Low - Immune_Mid",4.00802558006687,6.12284897580583e-05,0.000183685469274175
+"Chondrocytes_xCell","Chondrocytes","xCell enrichment signature","Immune_Low - Immune_High",3.31086365894935,0.000930085129663109,0.00139512769449466
+"Chondrocytes_xCell","Chondrocytes","xCell enrichment signature","Immune_Mid - Immune_High",-0.699408859726482,0.484296552567632,0.484296552567632
+"Monocytes_xCell","Monocytes","xCell enrichment signature","Immune_Low - Immune_Mid",3.06041149737443,0.00221033075307894,0.00331549612961841
+"Monocytes_xCell","Monocytes","xCell enrichment signature","Immune_Low - Immune_High",3.23880258601609,0.00120032623317159,0.00360097869951476
+"Monocytes_xCell","Monocytes","xCell enrichment signature","Immune_Mid - Immune_High",0.176193054736624,0.860142276950851,0.860142276950851
+"Epithelial_cells_xCell","Epithelial cells","xCell enrichment signature","Immune_Low - Immune_Mid",-0.303768075676065,0.761304590033057,0.761304590033057
+"Epithelial_cells_xCell","Epithelial cells","xCell enrichment signature","Immune_Low - Immune_High",2.95516586070964,0.00312500999574975,0.00468751499362462
+"Epithelial_cells_xCell","Epithelial cells","xCell enrichment signature","Immune_Mid - Immune_High",3.25692839434221,0.00112624840212995,0.00337874520638986
+"Mesangial_cells_xCell","Mesangial cells","xCell enrichment signature","Immune_Low - Immune_Mid",-3.35938031996496,0.000781174790459157,0.00234352437137747
+"Mesangial_cells_xCell","Mesangial cells","xCell enrichment signature","Immune_Low - Immune_High",-1.85121969221908,0.0641379538860602,0.0962069308290903
+"Mesangial_cells_xCell","Mesangial cells","xCell enrichment signature","Immune_Mid - Immune_High",1.50941696972447,0.131192259120776,0.131192259120776
+"NK_cells_xCell","NK cells","xCell enrichment signature","Immune_Low - Immune_Mid",-1.10699561466982,0.268295824340019,0.268295824340019
+"NK_cells_xCell","NK cells","xCell enrichment signature","Immune_Low - Immune_High",-3.27818156322169,0.00104478170763908,0.00313434512291724
+"NK_cells_xCell","NK cells","xCell enrichment signature","Immune_Mid - Immune_High",-2.16896118985434,0.0300856305071503,0.0451284457607254
